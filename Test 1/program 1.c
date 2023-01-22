@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-  int x=10;
-  printf("%d",x);
+  int x=10, y= 15;
+  printf("%d %d",x, y);
 }
